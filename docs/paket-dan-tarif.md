@@ -22,16 +22,4 @@ Hubungi saya, kita diskusikan.
 
 ## *À la carte*
 
-{: .highlight }
-> Paket rumus 
->
-> Mulai dari Rp. 300 per unit
->
-> Perlu dibuatkan rumusnya saja? Pilih ini.
-
-{: .highlight }
-> Paket figur 
->
-> Mulai dari Rp. 750 per unit
->
-> Perlu dibuatkan skema gambar berkualitas tinggi? Pilih ini.
+--lagi digarap, tanya saja--
