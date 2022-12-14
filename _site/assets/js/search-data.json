@@ -1,0 +1,68 @@
+{"0": {
+    "doc": "Kenapa?",
+    "title": "Fokus nulis, jangan fokus dekor!",
+    "content": "Lebih dari setengah waktu yang Anda gunakan untuk menulis habis hanya untuk mengurus posisi gambar yang harusnya rata tengah tapi gak pernah kelihatan di tengah. Bayangkan Anda sedang menulis tesis dan deadline sudah sehari lagi. Tesis Anda tebal. Data visualnya banyak. Geser gambar sedikit, semua hancur lebur. Kalau sudah begitu, setengah hari bakal habis untuk ngecek satu-satu halamannya. Belum lagi nanti kalau ada revisi mendatang. Pernah mikir gimana buku ajar yang sebegitu tebalnya disusun? Dokumen sekelas tugas kuliah tapi mau rapi seperti diterbitin di penerbitan mahal? Masukin satu rumus di Word makan waktu 3 menit? Belum lagi masukin visualisasi/tabel? Gambar diagram di Word kesannya kelihatan murah? Kampus/penerbit ngewajibin pakai LaTeX tapi gak ada waktu buat belajar? . Coba deh kontak saya. ",
+    "url": "/#fokus-nulis-jangan-fokus-dekor",
+    "relUrl": "/#fokus-nulis-jangan-fokus-dekor"
+  },"1": {
+    "doc": "Kenapa?",
+    "title": "Kenapa LaTeX?",
+    "content": "LaTeX adalah salah satu bahasa markah (markup language). Dulunya, TeX dibuat karena Donald Knuth, programmer TeX, kecewa berat karena papernya dicetak ulang tidak lagi pakai mesin cetak cap, melainkan dengan sistem afdruk offset yang pakai komputer. Mesin afdruk tadi dinilai jelek karena tidak mendukung layout dan susunan yang kompleks (misalnya rumus-rumus matematis). Hal itu beda dengan menyusun posisi huruf dengan tangan di mesin cetak cap. Di zaman sekarang, problemnya adalah Word (dan kebanyakan word processor lain) mirip seperti problemnya Knuth. Word memang mudah, tapi berapa lama waktu untuk membuat figur sebagai berikut (dan masih banyak lagi). Dokumen Anda tidak perlu rumus dan figur njelimet, jadi apa perlunya LateX buat Anda? Seperti yang saya bilang di awal, LaTeX membuat dokumen Anda rapi. Kalau lihat buku ajar mahal, semua pakai LaTeX. Bayangkan Anda menyusun dokumen kamus setebal itu menggunakan, misalnya, program layout seperti Adobe InDesign, lebih-lebih lagi kalau pakai Word. Semuanya tumbang. Kalau Anda perlu hemat waktu, selagi saya kerjakan dokumen Anda, anda bisa lakukan hal lain. Hemat waktu Anda! . ",
+    "url": "/#kenapa-latex",
+    "relUrl": "/#kenapa-latex"
+  },"2": {
+    "doc": "Kenapa?",
+    "title": "Kenapa?",
+    "content": " ",
+    "url": "/",
+    "relUrl": "/"
+  },"3": {
+    "doc": "Tarif dan Paket",
+    "title": "Tarif dan Paket",
+    "content": "Berapa? Murah dan efisien. ",
+    "url": "/docs/paket-dan-tarif.html",
+    "relUrl": "/docs/paket-dan-tarif.html"
+  },"4": {
+    "doc": "Tarif dan Paket",
+    "title": "Apa yang akan Anda dapat?",
+    "content": ". | Berkas PDF dan berkas sumber. | Pengerjaan paling cepat satu hari. Jika perlu kilat, hubungi saja. | Revisi dilakukan dengan kontak chat. | Mau konsultasi/pengajaran/bertanya, hubungi saja, nanti kita diskusikan. | . ",
+    "url": "/docs/paket-dan-tarif.html#apa-yang-akan-anda-dapat",
+    "relUrl": "/docs/paket-dan-tarif.html#apa-yang-akan-anda-dapat"
+  },"5": {
+    "doc": "Tarif dan Paket",
+    "title": "Paket dokumen",
+    "content": "Hubungi saya, kita diskusikan. ",
+    "url": "/docs/paket-dan-tarif.html#paket-dokumen",
+    "relUrl": "/docs/paket-dan-tarif.html#paket-dokumen"
+  },"6": {
+    "doc": "Tarif dan Paket",
+    "title": "À la carte",
+    "content": "Paket rumus . Mulai dari Rp. 300 per unit . Perlu dibuatkan rumusnya saja? Pilih ini. Paket figur . Mulai dari Rp. 750 per unit . Perlu dibuatkan skema gambar berkualitas tinggi? Pilih ini. ",
+    "url": "/docs/paket-dan-tarif.html#%C3%A0-la-carte",
+    "relUrl": "/docs/paket-dan-tarif.html#à-la-carte"
+  },"7": {
+    "doc": "Syarat dan Ketentuan",
+    "title": "Syarat dan Ketentuan",
+    "content": ". ",
+    "url": "/docs/syarat-dan-ketentuan.html",
+    "relUrl": "/docs/syarat-dan-ketentuan.html"
+  },"8": {
+    "doc": "Syarat dan Ketentuan",
+    "title": "Dokumen Anda, apapun itu, terjamin kerahasiannya",
+    "content": "Setelah proyek selesai, dokumen kerja Anda di laptop saya akan dihancurkan dan tidak disimpan dengan cara apapun. Saya juga tidak akan menggunakan hasil akhir dokumen Anda sebagai portfolio saya. ",
+    "url": "/docs/syarat-dan-ketentuan.html#dokumen-anda-apapun-itu-terjamin-kerahasiannya",
+    "relUrl": "/docs/syarat-dan-ketentuan.html#dokumen-anda-apapun-itu-terjamin-kerahasiannya"
+  },"9": {
+    "doc": "Syarat dan Ketentuan",
+    "title": "Ada waktu, ada kualitas",
+    "content": "Pengerjaan minimum dilakukan selama 24 jam. Dalam kasus dokumen besar, saya perlu lebih dari 2 hari. Semua update saya komunikasikan. Bagaimana kalau perlu cepat? . Hubungi saya. Bagaimana kalau saya mau konsultasi? . Kita bisa gunakan Overleaf untuk konsultasi langsung. Hubungi saja saya, nanti kita atur. ",
+    "url": "/docs/syarat-dan-ketentuan.html#ada-waktu-ada-kualitas",
+    "relUrl": "/docs/syarat-dan-ketentuan.html#ada-waktu-ada-kualitas"
+  },"10": {
+    "doc": "Syarat dan Ketentuan",
+    "title": "Dokumen dibuat dengan sederhana dan tanpa bloat",
+    "content": "Dalam mengerjakan dokumen LaTeX, saya tidak pernah menggunakan templat atau komponen apapun yang saya tidak butuhkan. Jika Anda butuh penjelasan mengapa pakai ini itu, saya selalu sertakan berkas penjelas/comment. ",
+    "url": "/docs/syarat-dan-ketentuan.html#dokumen-dibuat-dengan-sederhana-dan-tanpa-bloat",
+    "relUrl": "/docs/syarat-dan-ketentuan.html#dokumen-dibuat-dengan-sederhana-dan-tanpa-bloat"
+  }
+}
