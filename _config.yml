@@ -1,6 +1,6 @@
 title: Bengkel Layout 
 description: 
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 math: katex
 
