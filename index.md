@@ -32,6 +32,8 @@ Di zaman sekarang, problemnya adalah Word (dan kebanyakan *word processor* lain)
 {: .mx-auto }
 <img src="./assets/formul.svg" alt="drawing" width="75%"/>
 
+# Saya gak perlu rumus, apa saya perlu LaTeX?
+
 Dokumen Anda tidak perlu rumus dan figur njelimet, jadi apa perlunya LateX buat Anda? Seperti yang saya bilang di awal, LaTeX membuat dokumen Anda rapi. Kalau lihat buku ajar mahal, semua pakai LaTeX. Bayangkan Anda menyusun dokumen kamus setebal itu menggunakan, misalnya, program *layout* seperti Adobe InDesign, lebih-lebih lagi kalau pakai Word. Semuanya tumbang.
 
 Kalau Anda perlu hemat waktu, selagi saya kerjakan dokumen Anda, anda bisa lakukan hal lain. **Hemat waktu Anda!**
